@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug  5 12:07:19 2024
+
+@author: ghosh
+"""
+
+
 import sqlite3
 
 conn = sqlite3.connect('youtube_videos.db')
